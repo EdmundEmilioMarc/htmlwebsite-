@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" type="text/css" href="style.css">
+<style>
+    #startheader{
+        font-size:50px;
+        font-weight:bold;
+        font-family:Times;
+        color:Steelblue;
+        text-indent:500px;
+    }
+INDEX:  <!DOCTYPE html>
+<html>
+    <link rel="stylesheet" type="text/css" href="style.css">
+<style>
+    #startheader{
+        font-size:50px;
+        font-weight:bold;
+        font-family:Times;
+        color:Steelblue;
+        text-indent:500px;
+    }
+    #name{
+        font-size:25px;
+        font-family:Brush Script MT;
+        color:Black;
+        text-indent:35px;
+    }
+    #headers{
+        font-size:25px;
+        font-family:Fantasy;
+        color:Indigo;
+        text-indent:0px;
+    }
+    #listing{
+        font-size:15px;
+        font-family:Helvetica;
+        font-style:bold;
+        color:FireBrick;
+        font-weight:bold;
+    }
+    #style{
+        font-size:25px;
+        font-family:Fantasy;
+        color:ForestGreen;
+        opacity:0.4;
+        font-weight:bold;
+    }
+ </style>
+<body style="background-color:Aliceblue;">
+<h1 id="startheader">Welcome to My Portafolio</h1>
+ <center>
+    <table border="0">
+        <tr>
+            <th class="name">Featuring Edmund Lin</th>
+        </tr>
+    <center>
+        
+    </center>
+    </center>
+        <table border="0">
+        <tr>
+             <th class="about"><a class="center" href="about.html">About</th>
+             <th class="classes"><a class="center" href="classes.html">Classes</th>
+             <th class="projects"><a class="center" href="projects.html">Projects</th>
+        </tr>
+    </table>
+
+    </body>
+</html> 
+ABOUT: <!DOCTYPE html>
+<html>
+    <link rel="stylesheet" type="text/css" href="style.css">
+<style>
+ #startheader{
+        font-size:50px;
+        font-weight:bold;
+        font-family:Times;
+        color:Steelblue;
+        text-indent:500px;
+    }
+    #name{
+        font-size:25px;
+        font-family:Brush Script MT;
+        color:Black;
+        text-indent:35px;
+    }
+    #headers{
+        font-size:25px;
+        font-family:Fantasy;
+        color:Indigo;
+        text-indent:0px;
+    }
+    #listing{
+        font-size:15px;
+        font-family:Helvetica;
+        font-style:bold;
+        color:FireBrick;
+        font-weight:bold;
+    }
+    #style{
+        font-size:25px;
+        font-family:Fantasy;
+        color:ForestGreen;
+        opacity:0.4;
+        font-weight:bold;
+    }
+</style>
+<p id="headers">About Me</p>
+    <p>
+        <div class="space"><div>My name is Edmund Lin. Currently now I am 17 years old. My birthday is on October 27, 2003.</p>
+        I am enrolled in <i>Cosumnes Oaks High School</i> as a senior.
+        My graduation year is 2021 and my interset is in computer science.</p>
+    </p>
+<p id="headers">Skills</p>
+    <p>
+        <div class="skills"> 1) Speak Cantonese</div>
+        <div class="skills"> 2) Experience in Coding</div>
+            <div class="space">-<i>Includes C++, Arduino, HTML web development</i></div>
+        <div class="skills"> 3) Experience in building robots</div>
+             <div class="space">-<i>Linkbots, Parallax robots, and Papermech machinations</i></div>
+    </p>
+<p id="headers">Extracurricular Activities</p>
+    <p>
+         <div class="extra"> 1) California Scholarship Federation</div>
+            <div class="space">-Tutor students in Math 1 and completed around 55 hours.</div>
+        <div class="extra">2) Friday Night Live Mentoring</div>
+            <div class="space">-Become a mentor for a middle schooler and completed around 40 hours.</div>
+        <div class="extra">3) Computer Science Honor Society</div>
+            <div class="space">-Started learning Flutter using Fluuter SDK, VS Code, and Android Studio.</div>
+        <div class="extra">4) Volunteer at Elk Grove Food Bank</div>
+            <div class="space">-Manager and volunteer at Clothes Closet and completed around 15 hours.</div>
+    </p>
+<p id="headers">Why Computer Science?</p>
+    <p>
+        Out of all the jobs and specfically in the computer industry, why computer  science? I love computers and wanted to be a part of the computer industry. I decided to be more of a hardware person and build computers.</p>
+        Although I enjoy building and piecing small parts to build something functional. I  made a change to hardware and mechanical to more coding based because I took an introduction to coding in my sophomore year.</p> 
+        Starting out, I learned 
+        in <i>CHide</i> and was hard since I had no prior experience. I obviously had to learn 
+        programming language but I started to enjoy it.</p>
+  </center>
+        <table border="0">
+        <tr>
+             <th class="return"><a class="center" href="index.html">Return to Main Page</th>
+        </tr>
+    </table>
+    </center>
+</html>
+</body>
+</html>
+CLASSES : <!DOCTYPE html>
+<html>
+    <link rel="stylesheet" type="text/css" href="style.css">
+<style>
+ #startheader{
+        font-size:50px;
+        font-weight:bold;
+        font-family:Times;
+        color:Steelblue;
+        text-indent:500px;
+    }
+    #name{
+        font-size:25px;
+        font-family:Brush Script MT;
+        color:Black;
+        text-indent:35px;
+    }
+    #headers{
+        font-size:25px;
+        font-family:Fantasy;
+        color:Indigo;
+        text-indent:0px;
+    }
+    #listing{
+        font-size:15px;
+        font-family:Helvetica;
+        font-style:bold;
+        color:FireBrick;
+        font-weight:bold;
+    }
+    #style{
+        font-size:25px;
+        font-family:Fantasy;
+        color:ForestGreen;
+        opacity:0.4;
+        font-weight:bold;
+    }
+</style>
+<p id="headers">Classes I've Take</p>
+        <div class="class">1) Computer Technology</div>
+        <div class="class">2) Computing Math and Basic Programming</div>
+        <div class="class">3) Computing with Robotics</div>
+        <div class="class">4) Principles and Design of Cyberphysical Systems</div>
+        <div class="class">5) AP Computer Science Principles</div>
+</p>
+<p id="listing">1) Computing Math and Basic Programming</p>
+        <p class="space2">
+        In my first year, I learned using <i>CHide(c++)</i> and it's basically a sandbox for coding. I
+        had to complete tasks using the computer. I had to learn to define and tell 
+        computer different variables so it can calucate and do</p>
+        the tasks.For example, 
+        a project I did was a choose your own adventure story. For every individual 
+        outcome that happens, an individual choice was made and the story changes. 
+        So all the decisions presented are declared as a variable</p> and when the 
+        person types the decision out, the computer look at the variable and I tell 
+        the computer if the answer is a specific variable, it should run another line
+        that continues the story. The process repeated until the story ends. </p>
+        Another thing I experienced was <i>Linkbots</i>. <i>Linkbots</i> are miniature kit robots we used to complete tasks such as moving boxes or having a robot group dance.</p>
+<p id="listing">2) Computing with Robotics</p>
+    <p class="space2">
+        In my second year, I learned <i>Arduino</i> and built <i>Arduino</i> kit robots. The robots 
+        have to complete certain tasks with movements. I had to use the <i>Arduino</i> software 
+        to determine the robot's movement. The kit also came with</p> a how-to-do-book that explains the building and coding. The book is divided by chapters and each
+        chapter have some challenges to complete based on the curriculum you learned. The robot is a Parallax robot using the Arduino board</p> as a
+        brain for the robot.
+        For example, a task called <i>Avoiding Table Edge</i>. I attached a
+        sensor to the 
+        front of the robot. The robot moves towards the table edge and will stop before 
+        it falls off and backs away from the edge.</p>
+<p id="listing">3) Principles and Design of Cyberphysical Systems</p>
+    <p class="space2">
+        In my third year, I built cardboard and paper machines. I used a website called <i>Paper Mechatronics</i> to help me build cardboard machines and automations. Some automations are up-down crank and up-down rack</p> pinion.
+        Materials I used to build the various machines are cranks, servo, gears, skewers, carbboard, super glue, and cardboard spacers. The machines I built is solely based on motion. It moves by motors or hand cranks.
+<p id="listing">4) AP Computer Science Principles</p>
+  <p>
+      Concepts learned are units of digital information (<i>bits, bytes, megabytes</i>), components of the Internet, and app development with Snap and code.org (<i>variables, loops, traversals, algorithms, and parameters</i>).</p> 
+  </center>
+        <table border="0">
+        <tr>
+             <th class="return"><a class="center" href="index.html">Return to Main Page</th>
+        </tr>
+    </table>
+    </center>
+</html>
+</body>
+</html>
+PROJECTS : <!DOCTYPE html>
+<html>
+    <link rel="stylesheet" type="text/css" href="style.css">
+<style>
+ #startheader{
+        font-size:50px;
+        font-weight:bold;
+        font-family:Times;
+        color:Steelblue;
+        text-indent:500px;
+    }
+    #name{
+        font-size:25px;
+        font-family:Brush Script MT;
+        color:Black;
+        text-indent:35px;
+    }
+    #headers{
+        font-size:25px;
+        font-family:Fantasy;
+        color:Indigo;
+        text-indent:0px;
+    }
+    #listing{
+        font-size:15px;
+        font-family:Helvetica;
+        font-style:bold;
+        color:FireBrick;
+        font-weight:bold;
+    }
+    #style{
+        font-size:25px;
+        font-family:Fantasy;
+        color:ForestGreen;
+        opacity:0.4;
+        font-weight:bold;
+    }
+</style>
+<p id="style">C++</p>
+<img src="https://i.ytimg.com/vi/6drfdswsFVw/maxresdefault.jpg" width="300px" height="200px">
+    <div class="footnotes"><i>Components learned in C++ are lists, strings, loops, inputs, outputs, arithmetics, and conditional.</i></div>
+<p></p>
+<p id="style">Linkbots</p>
+<img src="https://static.wixstatic.com/media/4f854d_9f4819d41e0e47a0ac6e1c7fe081b203~mv2_d_4608_3072_s_4_2.jpg/v1/fill/w_624,h_528,al_c,q_80,usm_0.66_1.00_0.01/_DSC0780-min_JPG.webp" width="300px" height="200px">
+<hr>
+    <p>
+        Here's a link to see the code used for Choose-Your-Own-Adventure!
+        <a href="https://github.com/EdmundEmilioMarc/Portfolio/blob/master/ChooseYourAdventure">
+        <p>Click Here!</a></p>
+<hr>
+    <p id="style">Aurdino </p>
+     <img src="https://www.rs-online.com/designspark/rel-assets/dsauto/temp/uploaded/Arduino-Uno-R3-Pinouts.png?w=1042" width="300px" height="200px">
+    <p id="style">Aurdino with Lights</p>
+     <img src="https://content.instructables.com/ORIG/FBM/0TXC/JSAOS6I6/FBM0TXCJSAOS6I6.jpg?frame=1" width="300px" height="200px">
+    <p id="style">Parallax Robot</p>
+     <img src="https://images-na.ssl-images-amazon.com/images/I/71BSi4q5zEL._SL1000_.jpg" width="300px" height="200px">
+        <div class="footnotes"><i>Boe-Bot Robot Chassis, Rarallax continuous servos, plastic wheel and tires, 1 inch tail wheel, 4 AA battery holder, whisker wires, phototransistors, LED lights, transmitter, infrared receivers, pushbuttons, piezospeaker, jumper wires, different resistors(1k, 4.7k, 220, etc.), capacitors, and 3-pin headers</i></div>
+<hr>
+    <p>
+        a) Here's a link to <i>Arduino</i> lightshow!
+        <a href="https://www.youtube.com/watch?v=TEUr2Q-nL10&feature=youtu.be">
+        <p>Click Here!</a></p>
+    <p>
+        <i>With precise timing, the lights will light up alongside with the beat of the music.</i>
+    </p>
+        <p>b) Here's another link to the Lightshow Code!
+        <a href="https://github.com/EdmundEmilioMarc/Portfolio/commit/e9ee67092cf31e6495321a51e3e972119c752492">
+        <p>Click Here!</a></p>
+<hr>
+   <p id="style">MicroBit</p>
+   <img src="https://cdn.shopify.com/s/files/1/0214/4060/products/5613_additional_bbc_microbit_board_only_back_f249a986-eb28-4a26-a394-af6977612618.jpg?v=1509715149" width="300px" height="200px">
+   <p>
+       <i>Like a mini-Arduino board includes functions such as loops, variables, constants, images, music, random number, debugging, list, radio, and LED</i></p>
+       <i>Used UI, USB, acclerometer, display, buttons, reboot, debugging.</i>
+   </p>
+   <a href="https://github.com/EdmundEmilioMarc/MicroBit/commit/e2a6154c50f2b048b9ad835927375a07b901e84f">Microbit Code</a></p>
+   <p id="style">Up-Down Hand Crank</p>
+   <img src="http://www.papermech.net/wp-content/uploads/2020/09/front_tutorial_updown_crank3.png" width="300px" height="200px">
+        <p>
+            <i>I attached part of a skewer through a hole on the arm and it also attach itself to the wheel too. When I turn the skewer in the direction of the wheel, the arm moves in that direction.</i>
+        </p>
+    <p id="style">Up-Down Rack Pinion</p>
+    <img src="http://www.papermech.net/wp-content/uploads/2020/09/front_tutorial_updown_rp4.png" width="300px" height="200px">
+        <p>
+            <i>I used a continuous servo and attached it to the gear. I align the comb looking piece to the gear's teeth and attached a skewer to the side. This fills the gap and keep the piece from falling out. When I turn the servo on, the gear will move clockwise and this makes the comb and skewer to move up and down. </i>
+        </p>
+    <p>
+        I also learned HTML and web development from <i>CodeHS</i>. Components of web development I learned are images, links, tables, lists, style of webpage, divs, spans, selecting a specific class by ID/class/special selectors,</p>
+        aminations, visibility, and interactive images on click. I completed the HTML bootcamp which is 21 lessons of the main components of HTML. {<i>Like this website and interactive resume</i>}
+    </p>
+    <p id="style">CodeHS HTML Bootcamp</p>
+    <img src="https://images-na.ssl-images-amazon.com/images/I/81VZO9U%2BzKL.__BG0,0,0,0_FMpng_AC_UL600_SR375,600_.jpg" width="300px" height="200px">
+<hr>
+    <p>I created an interactive resume using HTML</p>
+    <a href="https://codehs.com/editor/html/3756454/915865/index.html">Interactive Resume</a></p>
+    <p>Source Code for this website</p>
+    <a href=
+<hr>
+    <p id="style">Snap by Berkeley</p>
+        <img src="http://somedragonscode.maritimers.ca/learning/snap-site/img/demo.png" width="300px" height="200px">
+            <div class="footnotes"><i>Block coding which controls a <b>sprite</b>. The sprite can move, turn, draw, change its apperance, and play sound with key concepts such as variables, operators, and sensors.</i></div>
+<hr>
+    <i>Here's a few example of "apps" created from Snap!</p></i>
+    <a href="https://snap.berkeley.edu/snap/snap.html#present:Username=edmundlin&ProjectName=U3L1-FINISHEDTic-Tac-ToeLin%2CLao">a) Tic Tac Toe</a></p>
+    <a href="https://snap.berkeley.edu/snap/snap.html#present:Username=edmundlin&ProjectName=U3L1-FINISHEDTic-Tac-ToeLin%2CLaohttps://snap.berkeley.edu/snapsource/snap.html#present:Username=edmundlin&ProjectName=U3L1-ContactList%20Lin%2CLaohttps://snap.berkeley.edu/snap/snap.html#present:Username=mj_lao&ProjectName=U3L1-Triangleshttps://snap.berkeley.edu/snapsource/snap.html#present:Username=edmundlin&ProjectName=U3L1%20Brick%20Wall-%20Lin%2F%20Lao">b) Build Your Own Wall</a></p>
+     <a href="https://snap.berkeley.edu/snap/snap.html#">c) Contact List</a></p>
+    <p id="style">App Development from Code.org</p>
+<hr>
+        a) Here's an link to the code for my code.org color sleuth game</p>
+        <a href="https://github.com/EdmundEmilioMarc/Code.org-Color-Sleuth-Game-Code/commit/31bbfc5d1be1569466abe60bbb7bde15aea440d6">Source Code for Code.org Color Sleuth Game</a></p>
+<hr>
+  </center>
+        <table border="0">
+        <tr>
+             <th class="return"><a class="center" href="index.html">Return to Main Page</th>
+        </tr>
+    </table>
+    </center>
+</html>
+</body>
+</html>
+STYLE : .extra{
+      font-size:15px;
+      font-family:Monospace;
+      color:Tomato;
+}
+.skills{
+      font-size:15px;
+      font-family:Monospace;
+      color:Fuchsia;
+}
+.class{
+      font-size:25px;
+      font-family:Garamond;
+      color:DodgerBlue;
+      font-weight:bold;
+}
+.space{
+    text-indent:50px;
+}
+.space2{
+    text-indent:100px;
+}
+.footnotes{
+    text-indent:400px;
+}
+.about{
+    width: 20px;
+    height: 20px;
+    background-color:MediumOrchid;
+    opacity:0.5;
+    color: white;
+    font-size:20px;
+    font-weight:bold;
+    text-align:center;
+}
+.classes{
+    width: 20px;
+    height: 20px;
+    background-color:SpringGreen;
+    opacity:0.5;
+    color: white;
+    font-size:20px;
+    font-weight:bold;
+    text-align:center;
+}
+.projects{
+    width: 20px;
+    height: 20px;
+    background-color:Gold;
+    opacity:0.5;
+    color: white;
+    font-size:20px;
+    font-weight:bold;
+    text-align:center;
+}
+.name{
+    width: 230px;
+    height: 50px;
+    background-color:MediumVioletRed;
+    color: white;
+    font-size:20px;
+    font-weight:bold;
+    text-align:center;
+}
+.return{
+    width: 150px;
+    height: 30px;
+    background-color:MediumAquamarine;
+    opacity:0.5;
+    color: white;
+    font-size:20px;
+    font-weight:bold;
+    text-align:center;
+}
